@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mukundlal&label=Profile%20views&color=0e75b6&style=flat" alt="mukundlal" /> </p>
 
-- 🌱 I’m currently learning ** React Native **
+- 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Flutter, Kotlin and Dart**
 
