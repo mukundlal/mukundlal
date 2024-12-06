@@ -23,6 +23,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mukundlal&show_icons=true&locale=en&layout=compact" alt="mukundlal" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mukundlal&show_icons=true&locale=en" alt="mukundlal" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mukundlal&" alt="mukundlal" /></p>
